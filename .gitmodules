@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "glottospace"]
+	path = glottospace
+	url = https://github.com/sietzen/glottospace
+	shallow = true
+	registered = true
